@@ -1,6 +1,6 @@
 # https://www.hackerrank.com/challenges/alternating-characters
 
-def what(arr):
+def alternatingCharacters(arr):
 	delete = 0
 	for i in range(len(arr)-1):
 		cur = arr[i]
